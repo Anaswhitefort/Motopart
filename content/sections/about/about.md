@@ -3,12 +3,9 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Gear up for an unparalleled vehicle parts buying and listing experience in the GCC with Motopart, our revolutionary application! Whether you're a passionate car enthusiast, a professional mechanic, or a trusted parts supplier,
+Motopart is your go-to platform.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+Explore an expansive marketplace where quality meets convenience, connecting you with a vast network of verified sellers and a diverse range of top-notch vehicle parts listing. Our user-friendly interface and advanced search functionalities ensure a seamless browsing experience, while our secure transaction process guarantees peace of mind.
 
 Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
