@@ -14,9 +14,9 @@
     "highlight": "Motopart",
     "suffix": "."
   },
-  "description": "All types of vehicle parts listed here",
+  "description": "A Premium Classified for buying and selling all vehicle parts in GCC",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Instagram", "Mail"],
+    "from": ["Instagram", "LinkedIn", "Medium", "Mail"],
     "showIcons": false
   }
 }

@@ -1,4 +1,5 @@
 import React from "react";
+import TextImg from '/Users/adamanas/new-motopart/motopart/components/textimg.js'
 import {
   AboutSection,
   ArticlesSection,
@@ -16,10 +17,11 @@ export default function IndexPage() {
       <Seo title="Motopart.org" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
+         <TextImg></TextImg>
         <AboutSection sectionId="about" heading="About Motopart" />
         <InterestsSection sectionId="details" heading="Parts Listings" />
         <ProjectsSection sectionId="features" heading="App Features" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
+          <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
         <ContactSection sectionId="github" heading="Contact" />
       </Page>
     </>

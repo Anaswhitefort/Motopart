@@ -1,0 +1,32 @@
+.container {
+    margin: auto;
+    max-width: 100%;
+    margin: 5%;
+    font-family: sans-serif;
+  }
+  .newh3 {
+color: red;
+position: fixed;
+bottom: 10px;
+right : 6px;
+z-index: 1;
+animation: mymove 1.5s infinite;
+width: auto;
+    height: auto;
+    background: var(--background-color);
+    background: linear-gradient(to right, var(--primary-color) 50%, var(--background-color) 50%);
+    background-size: 205% 100%;
+    background-position: right bottom;
+    border-radius: var(--border-radius);
+    border: 0.125rem solid #001799;
+    padding: 0.25rem 1.25rem;
+    margin-right: 0.5rem;
+    transition: all 0.1s ease-out;
+    font-size: 1rem;
+    color: var(--primary-color);
+}
+@keyframes mymove{
+50% {transform: rotate(10deg);}
+
+}
+  
