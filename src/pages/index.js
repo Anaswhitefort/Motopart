@@ -1,5 +1,5 @@
 import React from "react";
-import TextImg from '../components/textimg.js'
+import TextImg from './textimg.js'
 import {
   AboutSection,
   ArticlesSection,
