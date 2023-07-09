@@ -1,5 +1,5 @@
 import React from "react";
-import TextImg from '/Users/adamanas/new-motopart/motopart/components/textimg.js'
+import TextImg from '../components/textimg.js'
 import {
   AboutSection,
   ArticlesSection,

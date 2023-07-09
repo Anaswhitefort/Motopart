@@ -1,6 +1,6 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
-import { container, newh3} from '/Users/adamanas/new-motopart/motopart/components/layout.module.css'
+import { container, newh3} from '../components/layout.module.css'
 
 console.log('container: ', container)
 
