@@ -1,5 +1,6 @@
 import React from "react";
-import TextImg from './textimg.js'
+import DownloadPopUp from './download-popup.js'
+import MotopartBanner from './banner.js'
 import {
   AboutSection,
   ArticlesSection,
@@ -11,19 +12,24 @@ import {
   Seo,
 } from "gatsby-theme-portfolio-minimal";
 
-export default function IndexPage() {
-  return (
+const IndexPage = ({data}) => (
+ 
     <>
       <Seo title="Motopart.org" />
       <Page useSplashScreenAnimation>
+      <MotopartBanner></MotopartBanner>
         <HeroSection sectionId="hero" />
-         <TextImg></TextImg>
+         
         <AboutSection sectionId="about" heading="About Motopart" />
         <InterestsSection sectionId="details" heading="Parts Listings" />
         <ProjectsSection sectionId="features" heading="App Features" />
           <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
         <ContactSection sectionId="github" heading="Contact" />
+        <DownloadPopUp></DownloadPopUp>
       </Page>
     </>
-  );
-}
+  )
+
+
+
+export default IndexPage

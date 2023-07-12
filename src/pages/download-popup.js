@@ -1,10 +1,9 @@
 import * as React from 'react'
-import { Link } from 'gatsby'
 import { container, newh3} from './layout.module.css'
 
 console.log('container: ', container)
 
-const TextImg = () => {
+const DownloadPopUp = () => {
     return (
         <main className={container}>
             
@@ -14,4 +13,4 @@ const TextImg = () => {
         </main>
         )
     }
-export default TextImg
+export default DownloadPopUp
