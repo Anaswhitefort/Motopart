@@ -7,7 +7,7 @@
       "description": "Motopart app is designed with simplicity in mind. Whether you're a seasoned mechanic or a novice enthusiast, our intuitive interface ensures that you can effortlessly navigate the app to find the parts you need.",
       "tags": ["Motopart"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/motopart-design.jpg",
         "alt": "Quick Setup"
       }
     },
@@ -18,7 +18,7 @@
       "description": "We offer one of the largest selections of vehicle parts in the Middle East. From engine components to body parts, and from tires to electronics, you'll find everything you need to keep your vehicle in top shape or give it a stylish makeover.",
       "tags": ["Motopart"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/motopart-parts.jpg",
         "alt": "Extendable Layout"
       }
     }
