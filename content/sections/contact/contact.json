@@ -1,10 +1,10 @@
 {
   "name": "Motopart.org",
   "email": "support@motopart.org",
-  "description": "Contact Motopart Team",
+  "description": "Motopart Team",
   "image": {
     "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "alt": "Motopart.org"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Instagram", "Mail"],

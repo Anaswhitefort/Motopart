@@ -3,9 +3,8 @@ title: "Why Motopart ?"
 description: "Are you tired of scouring countless shops and websites in the Middle East to find the perfect vehicle parts for your car or truck? Look no further! Introducing Motopart Middle East"
 date: "2023"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
-  alt: "First Markdown Post"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
+  src: "../../images/motopart-parts.jpg"
+  alt: "Motopart Car par listings"
 categories:
   - "Motopart"
   - "Features"
