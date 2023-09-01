@@ -23,7 +23,6 @@ const IndexPage = ({data}) => (
         <AboutSection sectionId="about" heading="About Motopart" />
         <InterestsSection sectionId="details" heading="Parts Listings" />
         <ProjectsSection sectionId="features" heading="App Features" />
-          <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
         <ContactSection sectionId="github" heading="Contact" />
         <DownloadPopUp></DownloadPopUp>
       </Page>

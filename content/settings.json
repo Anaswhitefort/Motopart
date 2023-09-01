@@ -3,17 +3,17 @@
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "Motopart.org",
-    "titleTemplate": "%s · Portfolio Minimal",
+    "titleTemplate": "Motopart.org",
     "description": "Motopart.org",
     "author": "Motopart",
     "avatar": "../content/images/gatsby.png",
     "bio": "",
     "social": {
-      "behance": "https://behance.com",
-      "instagram": "https://instagram.com/",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "behance": "https://motopart.org",
+      "instagram": "https://motopart.org/",
+      "medium": "https://motopart.org",
+      "linkedin": "https://motopart.org",
+      "mail": "mailto:support@motopart.org"
     }
   },
   "siteConfiguration": {
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Download",
-        "url": "/resume.pdf"
+        "url": "/"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
